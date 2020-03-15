@@ -9,3 +9,5 @@ class A:
 if __name__=="__main__":
     b=A()
     b.print_fun()
+    c=A()
+    c.print_fun()
